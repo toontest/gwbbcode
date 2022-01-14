@@ -10,7 +10,7 @@
 var GWConfig = {
 	css: {
 		theme: 'https://toontest.github.io/gwbbcode/public/gwbbcode/themes/arnapou/theme.css',
-		skills: https://toontest.github.io/gwbbcode/public/gwbbcode/skills/skills.css'
+		skills: 'https://toontest.github.io/gwbbcode/public/gwbbcode/skills/skills.css'
 	},
 	js: {
 		data: {
