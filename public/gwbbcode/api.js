@@ -9,14 +9,14 @@
  */
 var GWConfig = {
 	css: {
-		theme: 'http://bbcode.thedeep.sc/themes/arnapou/theme.css',
-		skills: 'http://bbcode.thedeep.sc/skills/skills.css'
+		theme: 'https://toontest.github.io/gwbbcode/public/gwbbcode/themes/arnapou/theme.css',
+		skills: 'https://toontest.github.io/gwbbcode/skills/skills.css'
 	},
 	js: {
 		data: {
-			en: 'http://bbcode.thedeep.sc/data/en.js'
+			en: 'https://toontest.github.io/gwbbcode/data/en.js'
 		},
-		jQuery: 'http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js'
+		jQuery: 'https://code.jquery.com/jquery-1.12.4.min.js'
 	},
 	db: {
 		attributes: {"axe":"18","ham":"19","swo":"20","tac":"21","str":"17","bea":"22","mar":"25","wil":"24","exp":"23","hea":"13","pro":"15","smi":"14","div":"16","blo":"4","cur":"7","dea":"5","sou":"6","dom":"2","ill":"1","ins":"3","fas":"0","air":"8","ear":"9","fir":"10","wat":"11","ene":"12","dag":"29","dead":"30","sha":"31","cri":"35","cha":"34","com":"32","res":"33","spa":"36","comma":"38","mot":"39","spe":"37","lea":"40","earthp":"43","scy":"41","win":"42","mys":"44","lux":"-1","kur":"-1","asu":"-1","del":"-1","ebo":"-1","lig":"-1","nor":"-1","sun":"-1"},
