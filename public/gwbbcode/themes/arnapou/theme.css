@@ -173,7 +173,7 @@
 .gw-count7 .gw-skills-center {width: 350px !important;}
 .gw-count8 .gw-skills-center {width: 400px !important;}
 .gw-build .gw-panel {
-	width: 90px;
+	width: 100%;
 	height: 60px;
 	text-align:center;
 	padding-top: 12px;
@@ -208,6 +208,7 @@
 .gw-build .gw-container {
 	display: block;
 	overflow: hidden;
+	text-align: center;
 }
 .gw-build .gw-skills-left{
 	width: 25px;
