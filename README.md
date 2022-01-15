@@ -19,5 +19,5 @@ Example
 
 Credits
 =======
-Arnaud Buathier developed this Javascript version of GWBBCode from the original concept of Liu Pi and Ouroboros who created php plugins for forums like phpBB in 2006. His github repo was forked in 2019 in an effort to update changed skills and fix bugs.
+Arnaud Buathier developed this Javascript version of GWBBCode from the original concept of Liu Pi and Ouroboros who created php plugins for forums like phpBB in 2006. This is another fork hosted on Github.io.
 
