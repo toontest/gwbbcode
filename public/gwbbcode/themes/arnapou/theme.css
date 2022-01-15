@@ -19,6 +19,9 @@
 	vertical-align: baseline;
 	line-height: 1.2em;
 }
+.gw-build {
+	max-width: 100%;	
+}
 /***********************************************************************/
 /*                              SKILL                                  */
 /***********************************************************************/
@@ -170,7 +173,6 @@
 .gw-count7 .gw-skills-center {width: 350px !important;}
 .gw-count8 .gw-skills-center {width: 400px !important;}
 .gw-build .gw-panel {
-	float: left;
 	width: 90px;
 	height: 60px;
 	text-align:center;
