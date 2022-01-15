@@ -3,13 +3,19 @@ GWBBCode Javascript
 
 Originaly created in september 2011.
 
-Introduction
+Example
 ============
-This is Javascript stuff for Guildwars community forums/websites.
-
-It adds the ability to see nice Guildwars builds on your website, with information about the skill when you move the mouse on it.
-
-![screen](public/screen.png)
+```
+<script src="https://toontest.github.io/gwbbcode/public/gwbbcode/api.js"></script>
+<script type="text/javascript" >
+    GWOnLoad(function(){
+      GWBBCodeParse('.builds');
+    });
+</script>
+<div class=".builds">
+  [build=ADIRjh8oRyI5EQCd1e8RkJA]
+</div>
+```
 
 Credits
 =======
