@@ -12,10 +12,11 @@ Example
       GWBBCodeParse('.builds');
     });
 </script>
-<div class=".builds">
+<div class="builds">
   [build=ADIRjh8oRyI5EQCd1e8RkJA]
 </div>
 ```
+Demo: https://toontest.github.io/gwbbcode/public/
 
 Credits
 =======
