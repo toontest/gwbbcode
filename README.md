@@ -16,7 +16,7 @@ Example
   [build=ADIRjh8oRyI5EQCd1e8RkJA]
 </div>
 ```
-Demo: https://toontest.github.io/gwbbcode/public/
+Demo: https://toontest.github.io/gwbbcode
 
 Credits
 =======
