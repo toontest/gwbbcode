@@ -4,4 +4,6 @@ compiler/skills/compiled
 nbproject
 githubhook.log
 *.swp
-
+package-lock.json
+compiler/skills/images
+node_modules

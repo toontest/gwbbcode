@@ -45,9 +45,6 @@
 	width: 350px;
 	padding: 8px;
 	border: 1px solid #888;
-	-webkit-border-radius: 8px;
-	-moz-border-radius: 8px;
-	border-radius: 8px;
 	background-color: #eee;
 	background-position: right top;
 	background-repeat: no-repeat;
@@ -143,9 +140,6 @@
 	background: #888;
 	font-weight: bold;
 	color: white;
-	-webkit-border-top-left-radius: 8px;
-	-moz-border-radius-bottomright: 8px;
-	border-top-left-radius: 8px;
 }
 /***********************************************************************/
 /*                            BUILD                                    */
