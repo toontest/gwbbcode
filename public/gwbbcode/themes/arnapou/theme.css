@@ -66,7 +66,7 @@
 .gw-skillW {background-image: url(image/detail_W.png);}
 .gw-skill-detail .gw-skill-panel {
 	float: left;
-	width: 50px;
+	width: 60px;
 	padding-right: 8px;
 	border-right: 1px solid #ccc;
 	margin-bottom: 20px;
@@ -122,6 +122,7 @@
 	bottom: 0px;
 	left: 0px;
 	width: 370px;
+	max-width: 100%;
 }
 .gw-skill-detail .gw-skill-attr {
 	padding: 2px 8px;
